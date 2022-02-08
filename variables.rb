@@ -6,3 +6,8 @@ pets_owned = 1
 #Floats
 dollar_amount = 123.45
 percent = 0.65
+
+#Booleans
+fun = true
+hungry = false
+understanding = true
