@@ -15,3 +15,5 @@ understanding = true
 #Strings
 lyric = "Never gonna give you up"
 first_code = "Hello, world."
+#Reassigned Strings
+lyric = "Never gonna let you down"
