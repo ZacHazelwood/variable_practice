@@ -11,3 +11,7 @@ percent = 0.65
 fun = true
 hungry = false
 understanding = true
+
+#Strings
+lyric = "Never gonna give you up"
+first_code = "Hello, world."
